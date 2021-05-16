@@ -9,6 +9,9 @@
 * **Deployment**: Heroku, MongoDB Atlas
 
 ## ⚙️  Features
+* View dive site info without signing up
+* Edit, rate, and delete dive site info while signing in
+* Create routes with authentication 
 
 # Preview
 ## 1. Homepage
@@ -24,4 +27,17 @@
 </br></br>
 
 ## 4. Register
+![4  Register](https://user-images.githubusercontent.com/18150621/118385370-d30def00-b640-11eb-9a74-ae86a4583797.png)
+</br></br>
+
+## 5. Login
+![5  Login](https://user-images.githubusercontent.com/18150621/118385375-e0c37480-b640-11eb-9eab-b5c1152ae8c3.png)
+</br></br>
+
+## 6. Add Dive Site
+![6  Add Dive Site](https://user-images.githubusercontent.com/18150621/118385433-47e12900-b641-11eb-8975-f2b7f2a2b2f5.png)
+</br></br>
+
+## 7. Edit Dive Site
+![7  Edit Dive Site](https://user-images.githubusercontent.com/18150621/118385495-dd7cb880-b641-11eb-9587-0255e8024f65.png)
 </br></br>
